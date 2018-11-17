@@ -12,6 +12,6 @@
 
 ### 04 Fraud Detection
 - df.sort_values(by = colname): equal to 'ORDER BY colname'
-- array.clip_lower(value) : find all the elements in the array that is smaller than <value>, and change them into <value>
+- array.clip_lower(value) : find all the elements in the array that is smaller than **value**, and change them into **value**
 - array[array > 0] : cut array based on condition inside the double square brackets.
 - np.argmin(array) : find the index of the minimum element in an array
